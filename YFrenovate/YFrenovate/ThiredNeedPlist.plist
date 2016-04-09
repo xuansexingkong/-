@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>注意事项</string>
+		<key>subtitle</key>
+		<string>爱家需要装修，先来了解这是个注意事项吧！</string>
+		<key>headimage</key>
+		<string>http://pic.to8to.com/attch/day_150623/20150623_77085dd4efdf93b8da4bUqiWWfFJ6ojP.jpg?index=0</string>
+		<key>weburl</key>
+		<string>http://mobileapi.to8to.com/smallapp.php?module=Decoration&amp;action=Knowledetail_V2_1&amp;version=2.5&amp;android=1&amp;kid=20400&amp;isshow=1&amp;to8to_from=sanliuling&amp;uid=null&amp;channel=sanliuling&amp;appversion=2.1.5&amp;systemversion=19&amp;to8to_token=null&amp;appostype=1&amp;imei=865198024511152&amp;fromnewapp=1</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>装修流程</string>
+		<key>subtitle</key>
+		<string>装修流程要分八步走，每一步要点都要记牢。</string>
+		<key>headimage</key>
+		<string>http://pic.to8to.com/attch/day_150623/20150623_84ff5c42294c4c3435d9poOZwwm5HyRz.jpg?index=0</string>
+		<key>weburl</key>
+		<string>http://mobileapi.to8to.com/smallapp.php?module=Decoration&amp;action=Knowledetail_V2_1&amp;version=2.5&amp;android=1&amp;kid=20401&amp;isshow=1&amp;to8to_from=sanliuling&amp;uid=null&amp;channel=sanliuling&amp;appversion=2.1.5&amp;systemversion=19&amp;to8to_token=null&amp;appostype=1&amp;imei=865198024511152&amp;fromnewapp=1</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>验房常识</string>
+		<key>subtitle</key>
+		<string>新房到手要验收？这八个方面你检查了吗？</string>
+		<key>headimage</key>
+		<string>http://pic.to8to.com/attch/day_150624/20150624_95c954e840309cd9bcebb8SeXfGqqIoa.jpg?index=0</string>
+		<key>weburl</key>
+		<string>http://mobileapi.to8to.com/smallapp.php?module=Decoration&amp;action=Knowledetail_V2_1&amp;version=2.5&amp;android=1&amp;kid=20402&amp;isshow=1&amp;to8to_from=sanliuling&amp;uid=null&amp;channel=sanliuling&amp;appversion=2.1.5&amp;systemversion=19&amp;to8to_token=null&amp;appostype=1&amp;imei=865198024511152&amp;fromnewapp=1</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>公司挑选</string>
+		<key>subtitle</key>
+		<string>挑选装修公司别纠结。五步练就火眼金睛。</string>
+		<key>headimage</key>
+		<string>http://pic.to8to.com/attch/day_141125/20141125_112b87d0cdf543575127VglcKCwcendX.jpg?index=0</string>
+		<key>weburl</key>
+		<string>http://mobileapi.to8to.com/smallapp.php?module=Decoration&amp;action=Knowledetail_V2_1&amp;version=2.5&amp;android=1&amp;kid=20404&amp;isshow=1&amp;to8to_from=sanliuling&amp;uid=null&amp;channel=sanliuling&amp;appversion=2.1.5&amp;systemversion=19&amp;to8to_token=null&amp;appostype=1&amp;imei=865198024511152&amp;fromnewapp=1</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>风格设计</string>
+		<key>subtitle</key>
+		<string>九种常见设计风格，每种风格特点告诉你。</string>
+		<key>headimage</key>
+		<string>http://pic.to8to.com/attch/day_150624/20150624_1096b4668c871311badd4V9Va4VkNwxp.jpg?index=0</string>
+		<key>weburl</key>
+		<string>http://mobileapi.to8to.com/smallapp.php?module=Decoration&amp;action=Knowledetail_V2_1&amp;version=2.5&amp;android=1&amp;kid=20403&amp;isshow=1&amp;to8to_from=sanliuling&amp;uid=null&amp;channel=sanliuling&amp;appversion=2.1.5&amp;systemversion=19&amp;to8to_token=null&amp;appostype=1&amp;imei=865198024511152&amp;fromnewapp=1</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>subtitle</key>
+		<string>比任何渠道便宜20%以上</string>
+		<key>title</key>
+		<string>同城装修公司</string>
+		<key>icon</key>
+		<string>GPS2</string>
+	</dict>
+	<dict>
+		<key>subtitle</key>
+		<string>坐等3家公司上门服务</string>
+		<key>title</key>
+		<string>免费户型设计</string>
+		<key>icon</key>
+		<string>free-1</string>
+	</dict>
+	<dict>
+		<key>subtitle</key>
+		<string>行业标准严格验收</string>
+		<key>title</key>
+		<string>免费监理</string>
+		<key>icon</key>
+		<string>design</string>
+	</dict>
+	<dict>
+		<key>subtitle</key>
+		<string>全面检测房屋质量</string>
+		<key>title</key>
+		<string>公益验房</string>
+		<key>icon</key>
+		<string>House</string>
+	</dict>
+</array>
+</plist>
